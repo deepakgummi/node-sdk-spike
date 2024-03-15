@@ -1,0 +1,3 @@
+[submodule "w3s-openapi-internal"]
+	path = w3s-openapi-internal
+	url = https://github.com/circlefin/w3s-openapi-internal
